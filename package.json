@@ -1,0 +1,14 @@
+{
+  "name": "ultimate-business-free-web-template",
+  "version": "1.0.0",
+  "description": "Credits :\r ---------",
+  "main": "runn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
+}
